@@ -21,11 +21,11 @@ body {
     bottom: -100%;
     left: 50%;
     transform: translate(-50%);
-    background: #000000df;
+    background: #0000007b;
     padding: 30px;
     border: solid rgba(255, 255, 255, 0.796);
     border-radius: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 1.2);
+    box-shadow: 0 0 1000px rgb(0, 0, 0);
     transition: bottom 0.5s ease;
     z-index: 1000;
     backdrop-filter: blur(7px);
@@ -79,15 +79,15 @@ body {
     bottom: -100%;
     left: 50%;
     transform: translate(-50%);
-    background: #000000df;
+    background: #0000007b;
     padding: 30px;
-    border: solid rgba(255, 255, 255, 0.796);
+    border: solid rgba(255, 255, 255, 0.907);
     border-radius: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 1.2);
+    box-shadow: 0 0 1000px rgb(0, 0, 0);
     transition: bottom 0.5s ease;
     z-index: 1000;
     backdrop-filter: blur(7px);
-    min-width: 50%;
+    min-width: 20%;
 }
 
 .popup.show {
@@ -103,7 +103,7 @@ body {
 }
 
 .popup img {
-    width: 350px;
+    width: 250px;
     border-radius: 20px;
     margin: 0;
 }
