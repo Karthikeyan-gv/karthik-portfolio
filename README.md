@@ -1,4 +1,9 @@
 ﻿# responsive - portfolio
-Link: https://karthikeyan-gv.github.io/karthik-portfolio
+# Link: 
+https://karthikeyan-gv.github.io/karthik-portfolio
 
-Netlify Demo: https://karthik-portf.netlify.app
+# Netlify Demo: 
+https://karthik-portf.netlify.app
+
+# Bit.ly:
+bit.ly/4rPfaD
